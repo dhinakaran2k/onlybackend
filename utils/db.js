@@ -1,7 +1,7 @@
 const mysql = require('mysql');
 
 const db = mysql.createConnection({
-    host    : 'localhost',
+    host    : '44.197.229.238',
     user    : 'root',
     password: 'root',
     database: 'hospitalmanagementsystem'
